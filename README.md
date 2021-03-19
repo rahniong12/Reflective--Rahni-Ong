@@ -24,3 +24,6 @@ This week, my class focus had improved and I managed to keep up with content, he
 Next time, to see if I understand the content well, I am going to look through the extra examples on canvas and see if I can work the solutions out. If I am unsuccessful, I will then ask my peers or teachers for help through the discussion board. This will assist me in understanding the content better of how these models have applications in the real world.
 ### What theory proved to be useful and why? What have I learnt from this?
 The theory which proved to be useful was the problem solving. This involved content to do with how individuals and teams go about problem solving. I learnt that problem solving is a process of perspectives, heuristics, team diversity and recombination, which leads to innovation. The content has given me a framework of how someone’s perspectives, ideas and solutions combine with others to create good ideas. This information proved to be useful as I will be working individually on my reflections, but also in a team for the problem modelling assessment, hence demonstrating its importance in my university studies.
+
+---
+## Week 4
