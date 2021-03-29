@@ -1,4 +1,5 @@
 # GitHub reflection- Rahni Ong
+
 ---
 ## Week 2
 ### What have I learnt this week?
@@ -27,3 +28,17 @@ The theory which proved to be useful was the problem solving. This involved cont
 
 ---
 ## Week 4
+### What have I learnt this week?
+This week was based around representing human centred complex systems. Specifically, I learnt about three ways to model most complex adaptive systems; system dynamics models, network models and agent based models. From here, I learnt the basics of each method and ways they are implemented.
+### What do I 'now know' that I did not before? What insights have I gained?
+An insight I gained which I did not know before was that all our systems are made up of interacting loops, and consequently system behaviour develops. Specifically within system dynamics, these models display behaviour through interdependencies and improve our capacity to think. For example, a casual loop diagram consists of an interacting loop or loops in which interdependencies exist, representing the relationships between variables (eg. a casual loop diagram between procrastination and stress). I also gained insight on the parts which consist within a system dynamics model (sources, sinks, stocks and flows) and how they implemented with a real life example of an amusement park. 
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+A challenge I encountered this week was communication with my group in terms of beginning our many modelling assessment. Communication was a challenge as our group knew we had to start brainstorming possible topics for our assignment, but did not know where to start as we all had different ideas for what we individually wanted to do and how to approach it. We handled this well by allocating a week to research our individual topics and brainstorming models, collaborating on a team google docs.
+### What would I do better next time and with what anticipated results?
+Next time, in order to improve team communication, it would be ideal to set up a Microsoft Teams or Zoom call. In our situation, voice communication would have been more effective than digital communication so that ideas and thoughts could be discussed quicker. This would of allowed better use of time and would of resulted in a chosen topic to base our assignment on. 
+### What theory proved to be useful and why? What have I learnt from this?
+In reflecting upon the content this week, the theory of networks proved to be useful as I had particular interest in modelling social media, specifically how social behaviour arises from network interactions. The logical of network formation content included a focus on three simple ways that networks can form, one of which was a small-world formation. From the content, I learnt that small-world formations can represent social networks, as some nodes connect to other nodes near them, and then these nodes randomly connect to other nodes far away. Hence, this was relevant to my assignment as it allowed me to formulate a many model thinking mindset of how social media can be represented through models such as the small-worlds network.
+
+---
+## Week 5
+
