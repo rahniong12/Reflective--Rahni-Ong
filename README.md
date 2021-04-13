@@ -56,3 +56,7 @@ The theory which proved to be useful was the probability distributions content. 
 ## Week 6
 ### What have I learnt this week?
 This week was based on how complex systems change and evolve over time. Within this, I learnt random walks, Markov models and Lyapunov functions. This week I also learnt how ideas, information, behaviours and diseases spread through looking at models of concavity and convexity, broadcast, diffusion and contagion.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+A challenge I encountered this week was finding research on my allocated criteria dot point (2.3-identifying current models and 3.1-explaining the group’s three chosen models). I found this a challenge as I wanted to make sure I was researching the correct information so the rest of my team’s information would flow concisely. I also wanted to manage my time well from last week so no time was wasted on the wrong research. This week, I handled my research skills well, as well the team improving our time management and communication skills collectively.
+### What would I do better next time and with what anticipated results?
+Next time, I would have allocated another meeting with the group to make sure we were all on the same page in terms of what we were researching for our own individually set dot point. This would have allowed better use of research time. Next time, I am also going to re-read the content on Canvas, for broad information, and then look into scholar articles and books for more in depth research.
