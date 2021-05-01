@@ -80,3 +80,5 @@ The content of segregation was useful, particularly through the peer effects wit
 
 ---
 ## Week 8
+### What have I learnt this week?
+This week I learnt about part 2 of complexity and emergent behaviour. I learnt about game theory through strategy, competition and cooperation modelling in human centred complex systems. Strategy was modelled through the colonel blotto game. Competition and cooperation were modelled through the prisoners’ dilemma. Lastly, collective action problems were modelled by relevant real life examples.
