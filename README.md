@@ -88,8 +88,7 @@ Upon reflecting, knowledge I gained this week came from collective action proble
 A challenge this week was finalising the group pre-submission. This was a challenge as my group had to ensure that all our information related to our problem statement, flowed and actually answered each individual component. Although I had finished my section a while before as I had improved my time management with other due assessments, some of my other group members were just finishing off their sections within the night. However, we handled this well as my group organised a call and we each read over the pre-submission and provided peer feedback. 
 ### What would I do better next time and with what anticipated results?
 Next time, my group and I should have organised a time for our components to be done for the assessment. Then, a group call would have been organised to go through a read through of our information and in this way, more time would have been allocated for proof-reading to ensure a flow of correct information. Thus, this would have resulted in more efficient time management and teamwork.
-### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+### What theory proved to be useful and why? What have I learnt from this?
 
 ---
 ## Week 9
