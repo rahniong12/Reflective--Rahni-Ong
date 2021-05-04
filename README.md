@@ -82,3 +82,14 @@ The content of segregation was useful, particularly through the peer effects wit
 ## Week 8
 ### What have I learnt this week?
 This week I learnt about part 2 of complexity and emergent behaviour. I learnt about game theory through strategy, competition and cooperation modelling in human centred complex systems. Strategy was modelled through the colonel blotto game. Competition and cooperation were modelled through the prisoners’ dilemma. Lastly, collective action problems were modelled by relevant real life examples.
+### What do I 'now know' that I did not before? What insights have I gained?
+Upon reflecting, knowledge I gained this week came from collective action problems. This was particularly insightful as the world we live in today is becoming more interconnected and complex, hence collective actions problems become more relevant. I learnt that we see collective action problems at almost every scale of human organisations, many of which are personally relevant to me, such as public education, public safety and team based environments. Collective action problems occur when one makes a choice to contribute, but the contribution comes at a cost. Many examples I learnt were relevant today such as carbon emissions, whereby, it is beneficial for the collective to reduce carbon emissions, but it places a cost on the collective, so it becomes a different story whether they actually want to do it. However, if the majority of the collective cooperates and I am the one that does not, I benefit in my interest not to go along with the collective.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+A challenge this week was finalising the group pre-submission. This was a challenge as my group had to ensure that all our information related to our problem statement, flowed and actually answered each individual component. Although I had finished my section a while before as I had improved my time management with other due assessments, some of my other group members were just finishing off their sections within the night. However, we handled this well as my group organised a call and we each read over the pre-submission and provided peer feedback. 
+### What would I do better next time and with what anticipated results?
+Next time, my group and I should have organised a time for our components to be done for the assessment. Then, a group call would have been organised to go through a read through of our information and in this way, more time would have been allocated for proof-reading to ensure a flow of correct information. Thus, this would have resulted in more efficient time management and teamwork.
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+
+---
+## Week 9
