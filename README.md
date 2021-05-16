@@ -99,14 +99,18 @@ This week, our group got feedback for the pre submission. To our surprise, we di
 ## Week 10
 This week, we started allocating tasks for the non coding component of the assignment. I allocated myself to part two; constructing a detailed casual loop diagram indicating how variables and factors interrelate and influence each other to affect the problem. The week 3 content within system dynamics and casual loop diagrams was particularly useful in providing me with information on why we use a casual loop diagram, included symbols and how it works. For example, I learnt an example on how to model the relationship between procrastination and stress through a simple, yet effective casual loop diagram. I used this knowledge plus some research to construct a rough draft of a casual loop diagram based on our group’s topic. As time management has been a recurring issue, I had started my casual loop diagram as soon as it was allocated in order to receive feedback to refine and not leave it last minute. Later, I received feedback from the teachers. Again, I discovered weak points in my work. I realised I was not actually addressing how social media counteracts the weak points within traditional marketing, having no negative relationships shown. I also misunderstood the use of a balancing loop. Hence, this feedback was useful as I knew I had enough time to construct a perfected casual loop diagram and knew exactly what to include. To incorporate teamwork, I also used my group members to help me brainstorm factors into my new casual loop diagram. Working as a team was a huge strength, as we came up with many ideas which would be useful to work on next week.
 
+IMAGE 1: Week 3 content from Canvas
+![Screen Shot 2021-05-16 at 15 18 03](https://user-images.githubusercontent.com/79890525/118386324-0741d980-b65a-11eb-9833-bdd610c194b2.png)
+
 IMAGE 1: Draft casual loop diagram
 <img width="815" alt="Screen Shot 2021-05-05 at 13 49 09" src="https://user-images.githubusercontent.com/79890525/117987307-b4c49c80-b37d-11eb-8a58-356c1cdf592d.png">
 
 ## Week 11
 This week, I spent my time refining my casual loop diagram as per the teacher feedback and peer help. A challenge I encountered this week was attempting to brainstorm traditional marketing’s ineffectiveness as compared to social media marketing. I used the team’s ideas, as well as further research. I gained insight into ideas in which I would have thought of myself. I also did further research into how to construct a casual loop diagram with proper signage. Again, I used the Canvas material, websites and examples from images. From here, I came up with many ideas to include, such as being time consuming, ability to measure reach and ability to access the target market’s personal information. This step was a major strength as I could successfully create a casual loop diagram as per our group’s problem space. Also considering our problem space, our group refined our original information to adapt to the new problem space. This was a challenge as the group had to collaboratively make sure the information still flowed despite changes. Additionally, it was also a challenge as a group call was not set up due to other commitments, so this task had to be done individually. However, we managed to handle this well by messaging on our group chat how we would adapt out information to suit the problem space and agreed we would each do a final read through whenever needed or at the end.
 
-Screenshots of some researched I used to construct my CLD, including image examples and websites
-![Uploading Screen Shot 2021-05-16 at 15.15.56.png…]()
+IMAGES 1 and 2: Screenshots of some researched I used to construct my CLD, including image examples and websites
+<img width="883" alt="Screen Shot 2021-05-16 at 15 15 56" src="https://user-images.githubusercontent.com/79890525/118386294-d3ff4a80-b659-11eb-8c4e-4b1a1ec75cae.png">
+
 
 <img width="943" alt="Screen Shot 2021-05-16 at 15 16 16" src="https://user-images.githubusercontent.com/79890525/118386285-c2b63e00-b659-11eb-8b5c-aeabd0be3ab1.png">
 
