@@ -102,7 +102,7 @@ This week, we started allocating tasks for the non coding component of the assig
 IMAGE 1: Week 3 content from Canvas
 ![Screen Shot 2021-05-16 at 15 18 03](https://user-images.githubusercontent.com/79890525/118386324-0741d980-b65a-11eb-9833-bdd610c194b2.png)
 
-IMAGE 1: Draft casual loop diagram
+IMAGE 2: Draft casual loop diagram
 <img width="815" alt="Screen Shot 2021-05-05 at 13 49 09" src="https://user-images.githubusercontent.com/79890525/117987307-b4c49c80-b37d-11eb-8a58-356c1cdf592d.png">
 
 ## Week 11
