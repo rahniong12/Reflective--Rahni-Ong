@@ -105,6 +105,7 @@ IMAGE 1: Week 3 content from Canvas
 IMAGE 2: Draft casual loop diagram
 <img width="815" alt="Screen Shot 2021-05-05 at 13 49 09" src="https://user-images.githubusercontent.com/79890525/117987307-b4c49c80-b37d-11eb-8a58-356c1cdf592d.png">
 
+---
 ## Week 11
 This week, I spent my time refining my casual loop diagram as per the teacher feedback and peer help. A challenge I encountered this week was attempting to brainstorm traditional marketing’s ineffectiveness as compared to social media marketing. I used the team’s ideas, as well as further research. I gained insight into ideas in which I would have thought of myself. I also did further research into how to construct a casual loop diagram with proper signage. Again, I used the Canvas material, websites and examples from images. From here, I came up with many ideas to include, such as being time consuming, ability to measure reach and ability to access the target market’s personal information. This step was a major strength as I could successfully create a casual loop diagram as per our group’s problem space. Also considering our problem space, our group refined our original information to adapt to the new problem space. This was a challenge as the group had to collaboratively make sure the information still flowed despite changes. Additionally, it was also a challenge as a group call was not set up due to other commitments, so this task had to be done individually. However, we managed to handle this well by messaging on our group chat how we would adapt out information to suit the problem space and agreed we would each do a final read through whenever needed or at the end.
 
@@ -114,3 +115,4 @@ IMAGES 1 and 2: Screenshots of some researched I used to construct my CLD, inclu
 
 <img width="943" alt="Screen Shot 2021-05-16 at 15 16 16" src="https://user-images.githubusercontent.com/79890525/118386285-c2b63e00-b659-11eb-8b5c-aeabd0be3ab1.png">
 
+---
